@@ -1,0 +1,12 @@
+/* App.css */
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background-color: #343a40;
+}
+
+.container-fluid {
+  margin-left: 250px;
+}
